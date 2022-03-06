@@ -40,11 +40,11 @@ var lan = {
 		return msg;
 	},
 	"index":{
-		"memre":"Release memory",
-		"memre_ok":"Finished Releasing",
-		"memre_ok_0":"Releasing",
-		"memre_ok_1":"Released",
-		"memre_ok_2":"Already the best",
+		"memre":"Liberar Memória",
+		"memre_ok":"Liberação Concluída",
+		"memre_ok_0":"Liberação",
+		"memre_ok_1":"Liberado",
+		"memre_ok_2":"Já é o melhor",
 		"mem_warning":"Currently available physical RAM is less than 64M, which may cause MySQL to automatically stop, site 502 and other errors, please try to free the memory!",
 		"user_warning":"Current panel user is admin, which may bring risks to the panel!！",
 		"cpu_core":"Core(s)",
