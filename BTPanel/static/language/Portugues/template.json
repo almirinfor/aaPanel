@@ -91,7 +91,7 @@
 	},
 
 	"database":{
-		"H1":"Dashboard",
+		"H1":"Painel",
 		"H2":"Database Manager",
 		"SEARCH":"Database search",
 		"BTN1":"Add database",
@@ -120,15 +120,15 @@
 	},
 
 	"config":{
-		"H1":"Dashboard",
-		"H2":"Panel Setting",
+		"H1":"Painel",
+		"H2":"Configuração do Painel",
 		"I1":"Turn off panel",
 		"I2":"Auto update",
 		"I3":"Panel SSL",
 		"C1":"Setting",
 		"C2":"API Setting",
 		"C3":"For security, please change alias, default port, user name and password!",
-		"C4":"Save",
+		"C4":"Salvar",
 		"CT1":"Alias",
 		"CT2":"Panel port",
 		"CT3":"Domain",
